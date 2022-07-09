@@ -20,5 +20,4 @@ public class ItemUpdateForm {
     private Integer price;
 
     private Integer quantity;
-
 }
